@@ -50,7 +50,7 @@ li {
 }
 
 #return {
-	list-style-image: url(back.gif);
+	/*list-style-image: url(back.gif);*/
 }
 
 ul {
